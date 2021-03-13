@@ -1,0 +1,3 @@
+[submodule "weevely"]
+	path = weevely
+	url = https://github.com/epinna/weevely3
